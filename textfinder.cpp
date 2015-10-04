@@ -9,6 +9,8 @@ TextFinder::TextFinder(QWidget *parent) :
 {before 1
             before 2
             not staged
+            added from remote
+
     ui->setupUi(this);
     loadTextFile();
 
