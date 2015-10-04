@@ -6,7 +6,8 @@
 TextFinder::TextFinder(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::TextFinder)
-{
+{before 1
+            before 2
     ui->setupUi(this);
     loadTextFile();
 
