@@ -8,6 +8,7 @@ TextFinder::TextFinder(QWidget *parent) :
     ui(new Ui::TextFinder)
 {before 1
             before 2
+            added from remote
     ui->setupUi(this);
     loadTextFile();
 
