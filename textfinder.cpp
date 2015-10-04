@@ -8,6 +8,7 @@ TextFinder::TextFinder(QWidget *parent) :
     ui(new Ui::TextFinder)
 {before 1
             before 2
+            not staged
     ui->setupUi(this);
     loadTextFile();
 
